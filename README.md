@@ -1,2 +1,2 @@
 # Car-Rental-System
-front and back end code for car rental system with students in ANU
+front and back end code for car rental system made with students in ANU
