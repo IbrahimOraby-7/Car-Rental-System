@@ -1,0 +1,16 @@
+{
+    "name": "dell/car_system",
+    "description": "MFA Project",
+    "type": "project",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "The Avengers"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "pragmarx/google2fa": "^8.0",
+        "bacon/bacon-qr-code": "^3.0"
+    }
+}
